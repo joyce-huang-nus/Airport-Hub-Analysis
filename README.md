@@ -41,6 +41,7 @@ To identify the hubs, we took out the origin airports that have the highest out-
 
 
 ![image](https://user-images.githubusercontent.com/88580416/161210385-d3c51c2d-6eb7-4a75-986e-da97afc11212.png) 
+
 Airport hubs in December 2019
 
 We plot the top 1000 origin airports with the highest out-degree value and destination airports with the highest in-degree value in 2019. Blue dots are origin airports and red dots are destination airports. In this graph, we can observe that a lot of origin airports in United States and Europe had higher out-degree values, especially origin airports in Europe. Meanwhile, many destination airports with higher in-degree values are in United States, followed by Europe. We can conclude that most of the connections in the airport and flight network were based in United States and Europe. Noticed that there were more origin airports with flights flying out in Latin America compared to flights flying in. Another interesting finding is that there were also more origin airports with higher degree in Australia. 
