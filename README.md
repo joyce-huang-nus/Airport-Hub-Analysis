@@ -38,6 +38,8 @@ The degree distribution in both networks have long tails and tall heads, followi
 
 ## Identification of hubs
 To identify the hubs, we took out the origin airports that have the highest out-degree value and the destination airports with the highest in-degree value.
+
+
 ![image](https://user-images.githubusercontent.com/88580416/161210385-d3c51c2d-6eb7-4a75-986e-da97afc11212.png) 
 Airport hubs in December 2019
 
